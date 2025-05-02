@@ -1,5 +1,7 @@
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
+## NAME :ABINAV AADITYA
+## REG NO:212224040008
 ## 🎯 Aim
 To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
 
@@ -10,8 +12,12 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 
-Add Code Here
-
+```
+a=16 
+print(bin(a)
+```
 ## Output
+![Screenshot (134)](https://github.com/user-attachments/assets/740cd71d-506b-4f8a-a0b7-5fe8554481a1)
 
 ## Result
+Thus ,the program is executed successfully.
